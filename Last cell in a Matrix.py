@@ -1,6 +1,6 @@
 class Solution:
     def endPoints(self, matrix, R, C):
-        #cod 
+        #co 
         i = 0
         j = 0
         
