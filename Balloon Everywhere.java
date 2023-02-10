@@ -7,3 +7,4 @@ public:
         return min({ch[1], ch[0], ch[11]/2, ch[14]/2 ,ch[13]});
     }
 };
+y
