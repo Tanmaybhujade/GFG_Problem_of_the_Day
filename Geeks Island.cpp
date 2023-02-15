@@ -47,7 +47,7 @@ public:
 };
 
 
-//{ Dri
+//{ D
 
 int main(){
     int t;
