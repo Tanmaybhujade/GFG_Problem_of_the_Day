@@ -47,7 +47,7 @@ public:
 };
 
 
-//{ D
+//
 
 int main(){
     int t;
