@@ -47,7 +47,7 @@ public:
 };
 
 
-//{ Driver Code Starts.
+//{ Driver Code Start
 
 int main(){
     int t;
