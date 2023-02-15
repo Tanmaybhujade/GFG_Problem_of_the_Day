@@ -47,7 +47,7 @@ public:
 };
 
 
-//{ Driver Code 
+//{ Driver Co
 
 int main(){
     int t;
