@@ -47,7 +47,7 @@ public:
 };
 
 
-//{ Driver Code Sta
+//{ Driver Code S
 
 int main(){
     int t;
