@@ -47,7 +47,7 @@ public:
 };
 
 
-//{ Driver
+//{ Drive
 
 int main(){
     int t;
