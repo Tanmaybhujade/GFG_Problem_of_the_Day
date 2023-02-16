@@ -1,6 +1,4 @@
 
-//IniaTemplate for
-#incl\
 
 
 class Solution{
