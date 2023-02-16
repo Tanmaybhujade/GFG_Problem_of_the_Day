@@ -1,5 +1,5 @@
 /
-//Initial Template for
+//Inial Template for
 #include<bits/stdc++.h>
 using namespace std;
 
