@@ -1,5 +1,5 @@
 //{ Driver Code S
-//Initial Template for C++
+//Initial Template for
 #include<bits/stdc++.h>
 using namespace std;
 
