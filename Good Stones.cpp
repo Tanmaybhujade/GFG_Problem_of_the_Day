@@ -1,5 +1,5 @@
 /
-//Inial Template for
+//IniaTemplate for
 #include<bits/stdc++.h>
 using namespace std;
 
