@@ -1,7 +1,6 @@
 
 //IniaTemplate for
-#include<bits/stdc++.h>
-using names
+#incl\
 
 
 class Solution{
