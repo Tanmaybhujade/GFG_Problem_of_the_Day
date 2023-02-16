@@ -5,7 +5,7 @@ using namespace std;
 
 
 // } Driver Code
-//User function Template for C++
+//User function Template 
 class Solution{
 public:
 
