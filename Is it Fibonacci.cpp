@@ -6,7 +6,7 @@ class Solution {
         vector<long long> vec;
 
         
-
+1111
  
 
         for (auto it : GeekNum) sum += it, vec.push_back(it);
