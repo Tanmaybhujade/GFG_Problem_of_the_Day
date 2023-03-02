@@ -32,3 +32,4 @@ public:
         
         return *min_element(C[n - 1].begin(), C[n - 1].end());
     }
+};
