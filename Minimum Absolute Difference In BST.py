@@ -14,3 +14,5 @@ class Solution:
         
         inorder(root)
         return self.min_diff
+taygay
+
